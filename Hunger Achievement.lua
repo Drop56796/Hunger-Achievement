@@ -6,5 +6,5 @@ achievementGiver({
     Title = "Give me you soul",
     Desc = "I'm Hunger of you",
     Reason = "Survive the Hunger",
-    Image = "rbxassetid://17356445846"
+    Image = "rbxassetid://10969362005"
 })
